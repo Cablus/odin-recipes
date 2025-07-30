@@ -1,7 +1,7 @@
 # Odin Recipe
 
 ## Overview
-This project is built using only HTML for practice purposes. In the project, I've tried to make a 'Odin Recipe'.
+This project is built using only HTML for practice purposes. In the project, I've tried to make an Odin Recipe project.
 
 ## Recipes Included
 - Chicken Biryani
